@@ -11,9 +11,9 @@ end
 
 
 
-## make an empty array 
-## iterate the old array 
-## make a square variable and inside the variable 
+## make an empty array
+## iterate the old array
+## make a square variable and inside the variable
 ## use exponents
 ## shovel in square variable in new array
 ## return new array
